@@ -1,0 +1,10 @@
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\bin\Debug\MathQuizes.exe.config
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\bin\Debug\MathQuizes.exe
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\bin\Debug\MathQuizes.pdb
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.csprojAssemblyReference.cache
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.Form1.resources
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.Properties.Resources.resources
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.csproj.GenerateResource.cache
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.exe
+C:\Users\Nathaniel\source\repos\MathQuizes\MathQuizes\obj\Debug\MathQuizes.pdb
